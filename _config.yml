@@ -19,6 +19,7 @@ permalink: pretty
 
 plugins:
   - jekyll-sass-converter
+  - jekyll-feed
 
 sass:
   sass_dir: assets/css
