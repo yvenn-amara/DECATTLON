@@ -1,100 +1,115 @@
 day1:
-  label: "Jour 1 — Mardi 3 novembre 2026"
+  label: "Jour 1 — Transfer Learning - Mardi 3 novembre 2026"
   sessions:
-    - time: "09h00–09h30"
+    - time: "09h30–10h00"
       title: "Accueil et café"
       type: "break"
       description: "Enregistrement des participants, café de bienvenue."
 
-    - time: "09h30–10h30"
-      title: "Session plénière d'ouverture — [SUJET 1]"
+    - time: "10h00–11h00"
+      title: "[SUJET à venir]"
       type: "plenary"
       speakers:
-        - "[NOM 1]"
-        - "[NOM 2]"
-      description: "[Description courte de la session plénière d'ouverture.]"
+        - "Mathilde Mougeot"
+      description: "[Description à venir]"
 
-    - time: "10h30–11h00"
-      title: "Pause café"
-      type: "break"
-
-    - time: "11h00–12h30"
-      title: "Session — [SUJET 2]"
-      type: "session"
-      speakers:
-        - "[NOM 3]"
-      description: "[Description courte de la session.]"
-
-    - time: "12h30–14h00"
-      title: "Déjeuner"
-      type: "meal"
-
-    - time: "14h00–15h30"
-      title: "Atelier — [SUJET 3]"
+    - time: "11h00–12h00"
+      title: "Aspect pratique/Petit TP"
       type: "workshop"
       speakers:
-        - "[NOM 4]"
-        - "[NOM 5]"
-      description: "[Description courte de l'atelier interactif.]"
+        - "Mathilde Mougeot"
+      description: "[Description à venir]"
 
-    - time: "15h30–16h00"
-      title: "Pause café"
-      type: "break"
-
-    - time: "16h00–17h30"
-      title: "Session posters + discussions"
-      type: "poster"
-      description: "Présentation des posters sélectionnés, échanges informels avec les auteurs."
-
-    - time: "19h30"
-      title: "Dîner de gala"
-      type: "social"
-      description: "[LIEU DU DÎNER] — Dîner de gala des participants."
-
-day2:
-  label: "Jour 2 — Mercredi 4 novembre 2026"
-  sessions:
-    - time: "09h00–09h15"
-      title: "Introduction — Journée 2"
-      type: "break"
-      description: "Résumé de la veille et présentation du programme du jour."
-
-    - time: "09h15–10h45"
-      title: "Session — [SUJET 4]"
-      type: "session"
-      speakers:
-        - "[NOM 6]"
-      description: "[Description courte de la session.]"
-
-    - time: "10h45–11h15"
-      title: "Pause café"
-      type: "break"
-
-    - time: "11h15–12h45"
-      title: "Session — [SUJET 5]"
-      type: "session"
-      speakers:
-        - "[NOM 7]"
-        - "[NOM 8]"
-      description: "[Description courte de la session.]"
-
-    - time: "12h45–14h00"
+    - time: "12h00-13h30"
       title: "Déjeuner"
       type: "meal"
 
-    - time: "14h00–15h30"
-      title: "Table ronde — [THÈME]"
-      type: "panel"
+    - time: "13h30–14h10"
+      title: "[SUJET à venir]"
+      type: "plenary"
       speakers:
-        - "[NOM 9]"
-        - "[NOM 10]"
-      description: "[Description courte de la table ronde et des enjeux abordés.]"
+        - "Véronique Maumes Deschamps"
+      description: "[Description à venir]"
 
-    - time: "15h30–16h00"
+    - time: "14h10–14h50"
+      title: "[SUJET à venir]"
+      type: "plenary"
+      speakers:
+        - "Vladimir R. Kostic"
+      description: "[Description à venir]"
+
+    - time: "14h50–15h15"
       title: "Pause café"
       type: "break"
 
-    - time: "16h00–16h30"
-      title: "Clôture et perspectives"
+    - time: "15h15–15h55"
+      title: "[SUJET à venir]"
       type: "plenary"
-      description: "Synthèse des deux journées, annonces des prochaines étapes, remerciements."
+      speakers:
+        - "Rémi Flammary"
+      description: "[Description à venir]"
+
+    - time: "15h55–16h35"
+      title: "Session posters + discussions"
+      type: "poster"
+      description: "Présentation des posters sélectionnés, échanges informels avec les auteurs autour d'un goûter."
+
+day2:
+  label: "Jour 2 — Time Series Foundation Models - Mercredi 4 novembre 2026"
+  sessions:
+    - time: "09h30–10h00"
+      title: "Accueil et café"
+      type: "break"
+      description: "Enregistrement des participants, café de bienvenue."
+
+    - time: "10h00–11h00"
+      title: "Introduction au Deep Learning pour les Séries Temporelles"
+      type: "plenary"
+      speakers:
+        - "Adrien Petralia (Mistral)"
+        - "Etienne Le Naour (EDF)"
+      description: "Vers une meilleure généralisation à l’inférence"
+
+    - time: "11h15–12h45"
+      title: "TabICLv2"
+      type: "plenary"
+      speakers:
+        - "David Holzmüller (INRIA)"
+      description: "A better, faster, scalable, and open tabular foundation model"
+
+    - time: "12h00–13h30"
+      title: "Déjeuner"
+      type: "meal"
+
+    - time: "13h30–14h10"
+      title: "TS-ICL"
+      type: "session"
+      speakers:
+        - "Tahar Nabil(EDF)"
+        - "Etienne Le Naour (EDF)"
+      description: "A Flexible Time-Indexed Foundation Model for Time Series via In-Context Learning (Imputation & Forecasting)."
+      
+    - time: "14h10–14h50"
+      title: "CauKer"
+      type: "session"
+      speakers:
+        - "Shifeng Xie (Paris Cité)"
+      description: "Classification Time Series Foundation Models Can Be Pretrained on Synthetic Data."
+      
+    - time: "14h50–15h15"
+      title: "Pause café"
+      type: "break"
+      
+    - time: "15h15–15h55"
+      title: "Sélection de modèles pour la détection d’anomalies via les embeddings de Chronos-2."
+      type: "session"
+      speakers:
+        - "Paul Boniol (INRIA)"
+      description: "Détéction d’anomalies"
+
+    - time: "15h55–16h35"
+      title: "Talk Industriel"
+      type: "session"
+      speakers:
+        - "Décathlon ou EDF"
+      description: "Cas d’usage et retours d’expérience"

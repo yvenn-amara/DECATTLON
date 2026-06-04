@@ -33,10 +33,8 @@ title: Accueil
     <div class="intro-grid">
       <div class="intro-text">
         <h2>Contexte et objectifs</h2>
-        <p class="lead">[PARAGRAPHE 1 — Contexte scientifique. Présentez en 3 à 5 phrases l'essor des modèles de fondation (LLM, vision transformers, modèles multimodaux) et leur impact sur la communauté du machine learning appliqué.]</p>
-        <p>[PARAGRAPHE 2 — Enjeux spécifiques du transfer learning. Évoquez les défis d'adaptation de domaine, de fine-tuning efficace, de généralisation hors distribution, et les questions d'évaluation qui se posent aujourd'hui dans la recherche et l'industrie.]</p>
-        <p>[PARAGRAPHE 3 — Objectifs du workshop. Décrivez ce que le workshop vise à accomplir : favoriser les échanges entre académiques et industriels, présenter des travaux récents, identifier des axes de collaboration, etc.]</p>
-        <p>[PARAGRAPHE 4 — Public cible. Chercheurs en apprentissage automatique, ingénieurs data science, doctorants, post-doctorants travaillant sur les modèles de fondation ou leurs applications dans des domaines tels que la vision, le NLP, la série temporelle, etc.]</p>
+        <p class="lead">Cet événement, co-organisé par le projet ANR DECATTLON et EDF R&D, parrainé par le réseau français d'ENBIS (frENBIS), s'inscrit dans les actions de promotion de la statistique et des méthodes d'apprentissage machine au sein des entreprises et de l'industrie.
+L'apprentissage par transfert a marqué un tournant en permettant de réutiliser des connaissances acquises sur une tâche pour en résoudre une autre, optimisant ainsi ressources et données. Avec l'émergence des modèles de fondation (fondational models) – architectures générales et puissantes comme les Transformers –, cette approche a connu une nouvelle révolution. Ces modèles, pré-entraînés sur des volumes massifs de données, offrent des bases universelles facilement adaptables à des applications spécifiques grâce à des techniques avancées d'apprentissage par transfert. Ils redéfinissent ainsi les pratiques de personnalisation et d'efficacité en intelligence artificielle.</p>
       </div>
       <aside class="intro-aside">
         <h3>Thématiques abordées</h3>
