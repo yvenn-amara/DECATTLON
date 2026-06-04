@@ -1,11 +1,11 @@
-title: "[NOM DU WORKSHOP]"
-description: "[DESCRIPTION COURTE DU WORKSHOP — une ou deux phrases]"
-baseurl: "/[NOM-DU-REPO-GITHUB]"
-url: "https://[USERNAME].github.io"
+title: "Workshop DECATTLON"
+description: "Transfer Learning et Modèles de Fondation pour les séries temporelles"
+baseurl: "/yvenn-amara"
+url: "https://yvenn-amara.github.io"
 
 author:
-  name: "[NOM DE L'ORGANISATEUR]"
-  email: "[ADRESSE MAIL CONTACT]"
+  name: "ANR DECATTLON, EDF R&D"
+  email: "retd-edl@edf.fr"
 
 # Dates de l'événement
 event:
