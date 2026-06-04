@@ -1,0 +1,100 @@
+day1:
+  label: "Jour 1 — Mardi 3 novembre 2026"
+  sessions:
+    - time: "09h00–09h30"
+      title: "Accueil et café"
+      type: "break"
+      description: "Enregistrement des participants, café de bienvenue."
+
+    - time: "09h30–10h30"
+      title: "Session plénière d'ouverture — [SUJET 1]"
+      type: "plenary"
+      speakers:
+        - "[NOM 1]"
+        - "[NOM 2]"
+      description: "[Description courte de la session plénière d'ouverture.]"
+
+    - time: "10h30–11h00"
+      title: "Pause café"
+      type: "break"
+
+    - time: "11h00–12h30"
+      title: "Session — [SUJET 2]"
+      type: "session"
+      speakers:
+        - "[NOM 3]"
+      description: "[Description courte de la session.]"
+
+    - time: "12h30–14h00"
+      title: "Déjeuner"
+      type: "meal"
+
+    - time: "14h00–15h30"
+      title: "Atelier — [SUJET 3]"
+      type: "workshop"
+      speakers:
+        - "[NOM 4]"
+        - "[NOM 5]"
+      description: "[Description courte de l'atelier interactif.]"
+
+    - time: "15h30–16h00"
+      title: "Pause café"
+      type: "break"
+
+    - time: "16h00–17h30"
+      title: "Session posters + discussions"
+      type: "poster"
+      description: "Présentation des posters sélectionnés, échanges informels avec les auteurs."
+
+    - time: "19h30"
+      title: "Dîner de gala"
+      type: "social"
+      description: "[LIEU DU DÎNER] — Dîner de gala des participants."
+
+day2:
+  label: "Jour 2 — Mercredi 4 novembre 2026"
+  sessions:
+    - time: "09h00–09h15"
+      title: "Introduction — Journée 2"
+      type: "break"
+      description: "Résumé de la veille et présentation du programme du jour."
+
+    - time: "09h15–10h45"
+      title: "Session — [SUJET 4]"
+      type: "session"
+      speakers:
+        - "[NOM 6]"
+      description: "[Description courte de la session.]"
+
+    - time: "10h45–11h15"
+      title: "Pause café"
+      type: "break"
+
+    - time: "11h15–12h45"
+      title: "Session — [SUJET 5]"
+      type: "session"
+      speakers:
+        - "[NOM 7]"
+        - "[NOM 8]"
+      description: "[Description courte de la session.]"
+
+    - time: "12h45–14h00"
+      title: "Déjeuner"
+      type: "meal"
+
+    - time: "14h00–15h30"
+      title: "Table ronde — [THÈME]"
+      type: "panel"
+      speakers:
+        - "[NOM 9]"
+        - "[NOM 10]"
+      description: "[Description courte de la table ronde et des enjeux abordés.]"
+
+    - time: "15h30–16h00"
+      title: "Pause café"
+      type: "break"
+
+    - time: "16h00–16h30"
+      title: "Clôture et perspectives"
+      type: "plenary"
+      description: "Synthèse des deux journées, annonces des prochaines étapes, remerciements."

@@ -1,0 +1,21 @@
+<nav id="main-nav" class="site-nav" aria-label="Navigation principale">
+  <ul>
+    <li><a href="{{ '/' | relative_url }}"{% if page.url == '/' %} aria-current="page"{% endif %}>Accueil</a></li>
+    <li><a href="{{ '/program/' | relative_url }}"{% if page.url contains '/program' %} aria-current="page"{% endif %}>Programme</a></li>
+    <li><a href="{{ '/call-for-posters/' | relative_url }}"{% if page.url contains '/call-for-posters' %} aria-current="page"{% endif %}>Posters</a></li>
+    <li><a href="{{ '/venue/' | relative_url }}"{% if page.url contains '/venue' %} aria-current="page"{% endif %}>Infos pratiques</a></li>
+  </ul>
+</nav>
+
+<script>
+  (function () {
+    var btn = document.querySelector('.nav-toggle');
+    var nav = document.getElementById('main-nav');
+    if (!btn || !nav) return;
+    btn.addEventListener('click', function () {
+      var open = nav.classList.toggle('is-open');
+      btn.setAttribute('aria-expanded', open ? 'true' : 'false');
+      btn.setAttribute('aria-label', open ? 'Fermer le menu' : 'Ouvrir le menu');
+    });
+  })();
+</script>

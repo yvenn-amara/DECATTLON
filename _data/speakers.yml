@@ -1,0 +1,78 @@
+# Intervenants du workshop
+# Champs disponibles :
+#   name        : Prénom Nom (obligatoire)
+#   affiliation : Institution / Entreprise
+#   title       : Poste ou titre
+#   photo       : chemin relatif vers assets/img/ (optionnel)
+#   bio         : Courte biographie (optionnel, 2-3 phrases)
+#   website     : URL personnelle ou page labo (optionnel)
+
+- name: "[NOM 1]"
+  affiliation: "[INSTITUTION 1]"
+  title: "[POSTE 1]"
+  photo: ""
+  bio: "[Bio courte de l'intervenant·e 1. Deux à trois phrases présentant ses travaux de recherche et son expertise.]"
+  website: "https://[WEBSITE_1]"
+
+- name: "[NOM 2]"
+  affiliation: "[INSTITUTION 2]"
+  title: "[POSTE 2]"
+  photo: ""
+  bio: "[Bio courte de l'intervenant·e 2.]"
+  website: ""
+
+- name: "[NOM 3]"
+  affiliation: "[INSTITUTION 3]"
+  title: "[POSTE 3]"
+  photo: ""
+  bio: "[Bio courte de l'intervenant·e 3.]"
+  website: ""
+
+- name: "[NOM 4]"
+  affiliation: "[INSTITUTION 4]"
+  title: "[POSTE 4]"
+  photo: ""
+  bio: "[Bio courte de l'intervenant·e 4.]"
+  website: ""
+
+- name: "[NOM 5]"
+  affiliation: "[INSTITUTION 5]"
+  title: "[POSTE 5]"
+  photo: ""
+  bio: "[Bio courte de l'intervenant·e 5.]"
+  website: ""
+
+- name: "[NOM 6]"
+  affiliation: "[INSTITUTION 6]"
+  title: "[POSTE 6]"
+  photo: ""
+  bio: "[Bio courte de l'intervenant·e 6.]"
+  website: ""
+
+- name: "[NOM 7]"
+  affiliation: "[INSTITUTION 7]"
+  title: "[POSTE 7]"
+  photo: ""
+  bio: "[Bio courte de l'intervenant·e 7.]"
+  website: ""
+
+- name: "[NOM 8]"
+  affiliation: "[INSTITUTION 8]"
+  title: "[POSTE 8]"
+  photo: ""
+  bio: "[Bio courte de l'intervenant·e 8.]"
+  website: ""
+
+- name: "[NOM 9]"
+  affiliation: "[INSTITUTION 9]"
+  title: "[POSTE 9]"
+  photo: ""
+  bio: "[Bio courte de l'intervenant·e 9.]"
+  website: ""
+
+- name: "[NOM 10]"
+  affiliation: "[INSTITUTION 10]"
+  title: "[POSTE 10]"
+  photo: ""
+  bio: "[Bio courte de l'intervenant·e 10.]"
+  website: ""

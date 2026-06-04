@@ -1,0 +1,31 @@
+title: "[NOM DU WORKSHOP]"
+description: "[DESCRIPTION COURTE DU WORKSHOP — une ou deux phrases]"
+baseurl: "/[NOM-DU-REPO-GITHUB]"
+url: "https://[USERNAME].github.io"
+
+author:
+  name: "[NOM DE L'ORGANISATEUR]"
+  email: "[ADRESSE MAIL CONTACT]"
+
+# Dates de l'événement
+event:
+  start_date: "3–4 novembre 2026"
+  location: "EDF Lab, Palaiseau"
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+
+plugins:
+  - jekyll-sass-converter
+
+sass:
+  sass_dir: assets/css
+  style: compressed
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - README.md
+  - vendor/
