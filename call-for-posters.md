@@ -20,7 +20,7 @@ description: Informations et instructions pour soumettre un poster au workshop.
       <div class="cfp-main">
         <h2>Thèmes de soumission</h2>
         <p>
-          Nous accueillons des contributions originales ou des résumés de travaux récents portant sur les thématiques du transfer learning et des modèles de fondation, notamment :
+          Nous accueillons des contributions originales ou des résumés de travaux récents portant sur les thématiques du transfer learning et des modèles de fondation pour les séries temporelles, notamment :
         </p>
 
         <ul class="topic-list">
@@ -30,12 +30,7 @@ description: Informations et instructions pour soumettre un poster au workshop.
           <li>Transfert multi-tâches et multi-domaines</li>
           <li>Évaluation et benchmarks</li>
           <li>Généralisation hors distribution</li>
-          <li>Applications NLP et traitement du langage</li>
-          <li>Applications vision et multimodal</li>
-          <li>Applications séries temporelles et signaux</li>
-          <li>Efficience et déploiement embarqué</li>
-          <li>[THÉMATIQUE SUPPLÉMENTAIRE]</li>
-          <li>[THÉMATIQUE SUPPLÉMENTAIRE]</li>
+          <li>Applications séries temporelles et données multimodales</li>
         </ul>
 
         <p>
@@ -56,7 +51,7 @@ description: Informations et instructions pour soumettre un poster au workshop.
             <strong>Envoi :</strong> via le formulaire en ligne ci-dessous, ou directement par e-mail à <a href="mailto:[ADRESSE MAIL DE SOUMISSION]">[ADRESSE MAIL DE SOUMISSION]</a>.
           </li>
           <li style="display: flex; gap: 0.6rem; align-items: flex-start; padding: 0.5rem 0;">
-            <strong>Date limite :</strong> [DATE LIMITE DE SOUMISSION]
+            <strong>Date limite :</strong> 2 octobre 2026
           </li>
         </ul>
 
@@ -74,10 +69,10 @@ description: Informations et instructions pour soumettre un poster au workshop.
         <h2 class="mt-5">Sélection et notification</h2>
         <p>
           Les soumissions seront examinées par le comité d'organisation. Les auteurs seront notifiés par e-mail.
-          Les posters acceptés seront présentés lors de la session du mardi 3 novembre de 16h00 à 17h30.
+          Les posters acceptés seront présentés lors de la session du mardi 3 novembre à partir de 16h00.
         </p>
         <p>
-          Le format du poster est libre (A0 portrait recommandé). Une liste de prestataires d'impression à Palaiseau/Paris sera fournie aux auteurs acceptés.
+          Le format du poster est libre (A0 portrait recommandé). L'impression ne sera pas prise en charge par les organisateurs du workshop.
         </p>
       </div>
 
@@ -86,7 +81,7 @@ description: Informations et instructions pour soumettre un poster au workshop.
         <div class="info-card">
           <div class="info-card-header">
             <h3>Date limite</h3>
-            <p class="info-date">[DATE LIMITE]</p>
+            <p class="info-date">2 octobre 2026</p>
           </div>
           <div class="info-card-body">
             <div class="info-row">
@@ -99,7 +94,7 @@ description: Informations et instructions pour soumettre un poster au workshop.
             </div>
             <div class="info-row">
               <span class="info-label">Notification</span>
-              <span class="info-value">[DATE NOTIFICATION]</span>
+              <span class="info-value">23 octobre 2026</span>
             </div>
             <div class="info-row">
               <span class="info-label">Session posters</span>

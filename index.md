@@ -45,7 +45,6 @@ L'apprentissage par transfert a marqué un tournant en permettant de réutiliser
           <li>Évaluation robuste et benchmarks</li>
           <li>Applications industrielles et cas d'usage sectoriels</li>
           <li>Efficience computationnelle et déploiement</li>
-          <li>[THÉMATIQUE 7 — à personnaliser]</li>
         </ul>
       </aside>
     </div>
@@ -81,7 +80,7 @@ L'apprentissage par transfert a marqué un tournant en permettant de réutiliser
   <div class="container text-center">
     <h2>Rejoignez-nous</h2>
     <p class="lead mt-2" style="max-width: 560px; margin-left: auto; margin-right: auto;">
-      La session posters est ouverte aux contributions de la communauté. Soumettez votre résumé avant la date limite.
+      La session posters est ouverte aux contributions. Soumettez votre résumé avant la date limite.
     </p>
     <div class="hero-actions mt-4" style="justify-content: center;">
       <a href="{{ '/call-for-posters/' | relative_url }}" class="btn btn-primary">Appel à contributions →</a>
