@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Infos pratiques
-description: Adresse, accès et hébergements pour le workshop.
+title: Practical Info
+description: Address, access, and accommodation for the workshop.
 ---
 
 <div class="page-hero">
   <div class="container">
-    <p class="page-kicker">Infos pratiques</p>
-    <h1>Lieu &amp; Accès</h1>
-    <p class="lead">Toutes les informations pour vous rendre au workshop et organiser votre séjour.</p>
+    <p class="page-kicker">Practical Info</p>
+    <h1>Venue & Access</h1>
+    <p class="lead">All the information you need to get to the workshop and plan your stay.</p>
   </div>
 </div>
 
@@ -16,76 +16,76 @@ description: Adresse, accès et hébergements pour le workshop.
   <div class="container">
     <div class="venue-grid">
 
-      <!-- ADRESSE & CARTE -->
+      <!-- ADDRESS & MAP -->
       <div>
-        <h2 class="mb-4">Adresse</h2>
+        <h2 class="mb-4">Address</h2>
         <p>
           <strong>EDF Lab Paris-Saclay</strong><br />
-          [ADRESSE COMPLÈTE]<br />
-          [CODE POSTAL] Palaiseau
+          [FULL ADDRESS]<br />
+          [POSTAL CODE] Palaiseau
         </p>
         <p style="margin-top: 1rem; font-size: 0.9rem; color: #5A5954;">
-          Le workshop se tient dans l'espace de conférence [SALLE / BÂTIMENT], accessible depuis l'entrée principale.
+          The workshop is held in the [ROOM / BUILDING] conference area, accessible from the main entrance.
         </p>
 
-        <!-- Lien Google Maps -->
+        <!-- Google Maps Link -->
         <a href="https://maps.google.com/?q=EDF+Lab+Palaiseau" class="btn btn-outline btn-sm mt-3" target="_blank" rel="noopener">
-          Ouvrir dans Google Maps →
+          Open in Google Maps →
         </a>
 
         <div class="venue-map-placeholder mt-4">
           <svg class="map-icon" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor" stroke-width="1.5" aria-hidden="true">
-            <path d="M12 21C12 21 5 13.5 5 9a7 7 0 0 1 14 0c0 4.5-7 12-7 12z"/>
-            <circle cx="12" cy="9" r="2.5"/>
+            <path d="M12 21C12 21 5 13.5 5 9a7 7 0 0 1 14 0c0 4.5-7 12-7 12z" />
+            <circle cx="12" cy="9" r="2.5" />
           </svg>
-          <p>Remplacez ce bloc par une carte intégrée :<br/>
+          <p>Replace this block with an embedded map:<br/>
           <code style="font-size:0.8rem;">&lt;iframe src="https://www.google.com/maps/embed?pb=..." ...&gt;&lt;/iframe&gt;</code>
           </p>
         </div>
       </div>
 
-      <!-- TRANSPORTS -->
+      <!-- TRANSPORT -->
       <div>
-        <h2 class="mb-4">Comment venir</h2>
+        <h2 class="mb-4">How to get here</h2>
 
         <div class="transport-list">
           <div class="transport-item">
             <div class="transport-icon" aria-hidden="true">
-              <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.75" viewBox="0 0 24 24"><path d="M12 2C8 2 5 5 5 9c0 5 7 13 7 13s7-8 7-13c0-4-3-7-7-7z"/><circle cx="12" cy="9" r="2.5"/></svg>
+              <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.75" viewBox="0 0 24 24"><path d="M12 2C8 2 5 5 5 9c0 5 7 13 7 13s7-8 7-13c0-4-3-7-7-7z" /><circle cx="12" cy="9" r="2.5" /></svg>
             </div>
             <div class="transport-content">
               <h4>RER B</h4>
-              <p>Arrêt <strong>Massy-Palaiseau</strong> puis [BUS / NAVETTE / MARCHE — à compléter]. Depuis Paris-Charles-de-Gaulle ou Paris-Châtelet–Les Halles.</p>
+              <p><strong>Massy-Palaiseau</strong> stop, then [BUS / SHUTTLE / WALK — to be completed]. From Paris-Charles-de-Gaulle or Paris-Châtelet–Les Halles.</p>
             </div>
           </div>
 
           <div class="transport-item">
             <div class="transport-icon" aria-hidden="true">
-              <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.75" viewBox="0 0 24 24"><rect x="4" y="11" width="16" height="8" rx="2"/><path d="M4 13V9a4 4 0 0 1 4-4h8a4 4 0 0 1 4 4v4"/><circle cx="8" cy="19" r="1"/><circle cx="16" cy="19" r="1"/></svg>
+              <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.75" viewBox="0 0 24 24"><rect x="4" y="11" width="16" height="8" rx="2" /><path d="M4 13V9a4 4 0 0 1 4-4h8a4 4 0 0 1 4 4v4" /><circle cx="8" cy="19" r="1" /><circle cx="16" cy="19" r="1" /></svg>
             </div>
             <div class="transport-content">
-              <h4>Bus / Navette</h4>
-              <p>[LIGNE BUS — à compléter]. Des navettes sont prévues depuis [GARE / POINT DE DÉPART] aux horaires [HORAIRES — à compléter].</p>
+              <h4>Bus / Shuttle</h4>
+              <p>[BUS LINE — to be completed]. Shuttles are scheduled from [STATION / DEPARTURE POINT] at [TIMES — to be completed].</p>
             </div>
           </div>
 
           <div class="transport-item">
             <div class="transport-icon" aria-hidden="true">
-              <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.75" viewBox="0 0 24 24"><path d="M5 17H3a2 2 0 0 1-2-2V9a2 2 0 0 1 2-2h11l4 4v4a2 2 0 0 1-2 2h-2"/><circle cx="8.5" cy="17" r="1.5"/><circle cx="17.5" cy="17" r="1.5"/><polyline points="10 9 10 2 16 9"/></svg>
+              <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.75" viewBox="0 0 24 24"><path d="M5 17H3a2 2 0 0 1-2-2V9a2 2 0 0 1 2-2h11l4 4v4a2 2 0 0 1-2 2h-2" /><circle cx="8.5" cy="17" r="1.5" /><circle cx="17.5" cy="17" r="1.5" /><polyline points="10 9 10 2 16 9" /></svg>
             </div>
             <div class="transport-content">
-              <h4>En voiture</h4>
-              <p>Accès par l'A10 sortie Palaiseau ou par la N118. Parking gratuit disponible sur le site (indiquer [MENTION / BADGE] à l'entrée).</p>
+              <h4>By car</h4>
+              <p>Access via the A10 motorway (Palaiseau exit) or the N118. Free parking is available on-site (mention [NOTE / BADGE] at the entrance).</p>
             </div>
           </div>
 
           <div class="transport-item">
             <div class="transport-icon" aria-hidden="true">
-              <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.75" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 6v6l3 3"/></svg>
+              <svg width="20" height="20" fill="none" stroke="currentColor" stroke-width="1.75" viewBox="0 0 24 24"><circle cx="12" cy="12" r="10" /><path d="M12 6v6l3 3" /></svg>
             </div>
             <div class="transport-content">
-              <h4>Distances indicatives</h4>
-              <p>Paris (centre) : ~30 min en RER. Orly : ~20 min. CDG : ~50 min.</p>
+              <h4>Approximate travel times</h4>
+              <p>Paris (center): ~30 min by RER. Orly: ~20 min. CDG: ~50 min.</p>
             </div>
           </div>
         </div>
@@ -95,38 +95,38 @@ description: Adresse, accès et hébergements pour le workshop.
   </div>
 </section>
 
-<!-- HÉBERGEMENTS -->
+<!-- ACCOMMODATIONS -->
 <section class="section section--alt">
   <div class="container">
-    <h2>Hébergements recommandés</h2>
-    <p class="lead mt-2">Sélection d'hôtels à proximité du site.</p>
+    <h2>Recommended Accommodations</h2>
+    <p class="lead mt-2">A selection of hotels near the venue.</p>
 
     <div class="hotels-grid mt-3">
       <div class="hotel-card">
-        <h4>[NOM HÔTEL 1]</h4>
-        <p>[ADRESSE HÔTEL 1]<br />[CODE POSTAL] [VILLE 1]</p>
-        <p class="mt-2" style="font-size:0.82rem; color:#5A5954;">[Description courte : catégorie, équipements notables]</p>
-        <span class="hotel-dist">~[DISTANCE] du site</span>
+        <h4>[HOTEL NAME 1]</h4>
+        <p>[HOTEL ADDRESS 1]<br />[POSTAL CODE] [CITY 1]</p>
+        <p class="mt-2" style="font-size:0.82rem; color:#5A5954;">[Short description: category, notable amenities]</p>
+        <span class="hotel-dist">~[DISTANCE] from the venue</span>
       </div>
 
       <div class="hotel-card">
-        <h4>[NOM HÔTEL 2]</h4>
-        <p>[ADRESSE HÔTEL 2]<br />[CODE POSTAL] [VILLE 2]</p>
-        <p class="mt-2" style="font-size:0.82rem; color:#5A5954;">[Description courte : catégorie, équipements notables]</p>
-        <span class="hotel-dist">~[DISTANCE] du site</span>
+        <h4>[HOTEL NAME 2]</h4>
+        <p>[HOTEL ADDRESS 2]<br />[POSTAL CODE] [CITY 2]</p>
+        <p class="mt-2" style="font-size:0.82rem; color:#5A5954;">[Short description: category, notable amenities]</p>
+        <span class="hotel-dist">~[DISTANCE] from the venue</span>
       </div>
 
       <div class="hotel-card">
-        <h4>[NOM HÔTEL 3]</h4>
-        <p>[ADRESSE HÔTEL 3]<br />[CODE POSTAL] [VILLE 3]</p>
-        <p class="mt-2" style="font-size:0.82rem; color:#5A5954;">[Description courte : catégorie, équipements notables]</p>
-        <span class="hotel-dist">~[DISTANCE] du site</span>
+        <h4>[HOTEL NAME 3]</h4>
+        <p>[HOTEL ADDRESS 3]<br />[POSTAL CODE] [CITY 3]</p>
+        <p class="mt-2" style="font-size:0.82rem; color:#5A5954;">[Short description: category, notable amenities]</p>
+        <span class="hotel-dist">~[DISTANCE] from the venue</span>
       </div>
     </div>
 
     <p class="mt-4" style="font-size: 0.88rem; color: #5A5954;">
-      Des tarifs préférentiels peuvent être disponibles selon négociation avec les organisateurs.
-      Contactez-nous à <a href="mailto:{{ site.author.email }}">{{ site.author.email }}</a> pour plus d'informations.
+      Preferential rates may be available through negotiation with the organizers.
+      Contact us at <a href="mailto:"></a> for more information.
     </p>
   </div>
 </section>
@@ -136,13 +136,13 @@ description: Adresse, accès et hébergements pour le workshop.
   <div class="container" style="max-width: 560px;">
     <h2 class="mb-4">Contact</h2>
     <p>
-      Pour toute question logistique ou d'organisation, contactez le comité d'organisation :
+      For any logistical or organizational questions, please contact the organizing committee:
     </p>
     <p class="mt-2">
-      <a href="mailto:{{ site.author.email }}" class="btn btn-outline">{{ site.author.email }}</a>
+      <a href="mailto:" class="btn btn-outline"></a>
     </p>
     <p class="mt-4" style="font-size: 0.88rem; color: #5A5954;">
-      Le site sera mis à jour régulièrement avec les informations pratiques complémentaires (navette, badge d'accès, etc.).
+      The website will be regularly updated with additional practical information (shuttle, access badge, etc.).
     </p>
   </div>
 </section>
