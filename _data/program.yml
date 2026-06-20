@@ -1,74 +1,74 @@
 day1:
-  label: "Jour 1 — Transfer Learning - Mardi 3 novembre 2026"
+  label: "Day 1 — Transfer Learning - Tuesday, November 3, 2026"
   sessions:
     - time: "09h30–10h00"
-      title: "Accueil et café"
+      title: "Welcome and coffee"
       type: "break"
-      description: "Enregistrement des participants, café de bienvenue."
+      description: "Participant registration, welcome coffee."
 
     - time: "10h00–11h00"
-      title: "[SUJET à venir]"
+      title: "[TOPIC TBD]"
       type: "plenary"
       speakers:
         - "Mathilde Mougeot"
-      description: "[Description à venir]"
+      description: "[Description TBD]"
 
     - time: "11h00–12h00"
-      title: "Aspect pratique/Petit TP"
+      title: "Practical workshop"
       type: "workshop"
       speakers:
         - "Mathilde Mougeot"
-      description: "[Description à venir]"
+      description: "[Description TBD]"
 
     - time: "12h00-13h30"
-      title: "Déjeuner"
+      title: "Lunch"
       type: "meal"
 
     - time: "13h30–14h10"
-      title: "[SUJET à venir]"
+      title: "[TOPIC TBD]"
       type: "plenary"
       speakers:
         - "Véronique Maumes Deschamps"
-      description: "[Description à venir]"
+      description: "[Description TBD]"
 
     - time: "14h10–14h50"
-      title: "[SUJET à venir]"
+      title: "[TOPIC TBD]"
       type: "plenary"
       speakers:
         - "Vladimir R. Kostic"
-      description: "[Description à venir]"
+      description: "[Description TBD]"
 
     - time: "14h50–15h15"
-      title: "Pause café"
+      title: "Coffee break"
       type: "break"
 
     - time: "15h15–15h55"
-      title: "[SUJET à venir]"
+      title: "[TOPIC TBD]"
       type: "plenary"
       speakers:
         - "Rémi Flammary"
-      description: "[Description à venir]"
+      description: "[Description TBD]"
 
     - time: "15h55–16h35"
-      title: "Session posters + discussions"
+      title: "Poster session + discussions"
       type: "poster"
-      description: "Présentation des posters sélectionnés, échanges informels avec les auteurs autour d'un goûter."
+      description: "Presentation of selected posters, informal discussions with the authors over refreshments."
 
 day2:
-  label: "Jour 2 — Time Series Foundation Models - Mercredi 4 novembre 2026"
+  label: "Day 2 — Time Series Foundation Models - Wednesday, November 4, 2026"
   sessions:
     - time: "09h30–10h00"
-      title: "Accueil et café"
+      title: "Welcome and coffee"
       type: "break"
-      description: "Enregistrement des participants, café de bienvenue."
+      description: "Participant registration, welcome coffee."
 
     - time: "10h00–11h00"
-      title: "Introduction au Deep Learning pour les Séries Temporelles"
+      title: "Introduction to Deep Learning for Time Series"
       type: "plenary"
       speakers:
         - "Adrien Petralia (Mistral)"
         - "Etienne Le Naour (EDF)"
-      description: "Vers une meilleure généralisation à l’inférence"
+      description: "Towards better generalization at inference"
 
     - time: "11h15–12h45"
       title: "TabICLv2"
@@ -78,7 +78,7 @@ day2:
       description: "A better, faster, scalable, and open tabular foundation model"
 
     - time: "12h00–13h30"
-      title: "Déjeuner"
+      title: "Lunch"
       type: "meal"
 
     - time: "13h30–14h10"
@@ -97,19 +97,19 @@ day2:
       description: "Classification Time Series Foundation Models Can Be Pretrained on Synthetic Data."
       
     - time: "14h50–15h15"
-      title: "Pause café"
+      title: "Coffee break"
       type: "break"
       
     - time: "15h15–15h55"
-      title: "Sélection de modèles pour la détection d’anomalies via les embeddings de Chronos-2."
+      title: "Model selection for anomaly detection via Chronos-2 embeddings."
       type: "session"
       speakers:
         - "Paul Boniol (INRIA)"
-      description: "Détéction d’anomalies"
+      description: "Anomaly detection"
 
     - time: "15h55–16h35"
-      title: "Talk Industriel"
+      title: "Industry Talk"
       type: "session"
       speakers:
-        - "Décathlon ou EDF"
-      description: "Cas d’usage et retours d’expérience"
+        - "Decathlon or EDF"
+      description: "Use cases and feedback"
