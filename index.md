@@ -21,8 +21,8 @@ title: Home
       </div>
     </div>
     <div class="hero-actions">
-      <a href="" class="btn btn-primary">View the program</a>
-      <a href="" class="btn btn-outline">Submit a poster</a>
+      <a href="{{ '/program/' | relative_url }}" class="btn btn-primary">View the program</a>
+      <a href="https://framaforms.org/transfer-learning-and-time-series-fm-1781970359" class="btn btn-outline">Submit a poster</a>
     </div>
   </div>
 </section>
@@ -60,15 +60,19 @@ Transfer learning marked a turning point by enabling the reuse of knowledge acqu
       <div class="speaker-card">
         <div class="speaker-avatar">
           {% if speaker.photo != "" %}
-          <img src="" alt="Photo of " />
+          <img src="{{ speaker.photo | relative_url }}" alt="Photo of {{ speaker.name }}" />
           {% else %}
           <span class="avatar-initials">
-            
+            {{ speaker.name | split: " " | map: "first" | join: "" }}
           </span>
           {% endif %}
         </div>
-        <p class="speaker-name"></p>
-        <p class="speaker-affil">{% if speaker.title != "" and speaker.affiliation != "" %}<br>{% endif %}</p>
+        <p class="speaker-name">{{ speaker.name }}</p>
+        <p class="speaker-affil">
+          {{ speaker.title }}
+          {% if speaker.title != "" and speaker.affiliation != "" %}<br>{% endif %}
+          {{ speaker.affiliation }}
+        </p>
       </div>
       {% endfor %}
     </div>
@@ -83,8 +87,8 @@ Transfer learning marked a turning point by enabling the reuse of knowledge acqu
       The poster session is open for contributions. Submit your abstract before the deadline.
     </p>
     <div class="hero-actions mt-4" style="justify-content: center;">
-      <a href="" class="btn btn-primary">Call for contributions →</a>
-      <a href="" class="btn btn-outline">Practical Info</a>
+      <a href="{{ '/call-for-posters/' | relative_url }}" class="btn btn-primary">Call for contributions →</a>
+      <a href="{{ '/venue/' | relative_url }}" class="btn btn-outline">Practical Info</a>
     </div>
   </div>
 </section>
