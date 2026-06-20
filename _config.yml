@@ -1,5 +1,5 @@
 title: "Workshop DECATTLON"
-description: "Transfer Learning et Modèles de Fondation pour les séries temporelles"
+description: "Transfer Learning and Foundation Models for Time Series"
 baseurl: "/DECATTLON"
 url: "https://yvenn-amara.github.io"
 
@@ -7,9 +7,9 @@ author:
   name: "ANR DECATTLON, EDF R&D"
   email: "retd-edl@edf.fr"
 
-# Dates de l'événement
+# Event dates
 event:
-  start_date: "3–4 novembre 2026"
+  start_date: "November 3–4, 2026"
   location: "EDF Lab, Palaiseau"
 
 # Build settings
