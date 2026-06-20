@@ -1,43 +1,43 @@
-# Intervenants du workshop
-# Champs disponibles :
-#   name        : Prénom Nom (obligatoire)
-#   affiliation : Institution / Entreprise
-#   title       : Poste ou titre
-#   photo       : chemin relatif vers assets/img/ (optionnel)
-#   bio         : Courte biographie (optionnel, 2-3 phrases)
-#   website     : URL personnelle ou page labo (optionnel)
+# Workshop speakers
+# Available fields:
+#   name        : First Last (required)
+#   affiliation : Institution / Company
+#   title       : Position or title
+#   photo       : relative path under assets/img/ (optional)
+#   bio         : Short biography (optional, 2-3 sentences)
+#   website     : Personal or lab page URL (optional)
 
-- name: "[NOM 1]"
+- name: "[NAME 1]"
   affiliation: "[INSTITUTION 1]"
-  title: "[POSTE 1]"
+  title: "[POSITION 1]"
   photo: ""
-  bio: "[Bio courte de l'intervenant·e 1. Deux à trois phrases présentant ses travaux de recherche et son expertise.]"
+  bio: "[Short bio of speaker 1. Two to three sentences presenting their research work and expertise.]"
   website: "https://[WEBSITE_1]"
 
-- name: "[NOM 2]"
+- name: "[NAME 2]"
   affiliation: "[INSTITUTION 2]"
-  title: "[POSTE 2]"
+  title: "[POSITION 2]"
   photo: ""
-  bio: "[Bio courte de l'intervenant·e 2.]"
+  bio: "[Short bio of speaker 2.]"
   website: ""
 
-- name: "[NOM 3]"
+- name: "[NAME 3]"
   affiliation: "[INSTITUTION 3]"
-  title: "[POSTE 3]"
+  title: "[POSITION 3]"
   photo: ""
-  bio: "[Bio courte de l'intervenant·e 3.]"
+  bio: "[Short bio of speaker 3.]"
   website: ""
 
-- name: "[NOM 4]"
+- name: "[NAME 4]"
   affiliation: "[INSTITUTION 4]"
-  title: "[POSTE 4]"
+  title: "[POSITION 4]"
   photo: ""
-  bio: "[Bio courte de l'intervenant·e 4.]"
+  bio: "[Short bio of speaker 4.]"
   website: ""
 
-- name: "[NOM 5]"
+- name: "[NAME 5]"
   affiliation: "[INSTITUTION 5]"
-  title: "[POSTE 5]"
+  title: "[POSITION 5]"
   photo: ""
-  bio: "[Bio courte de l'intervenant·e 5.]"
+  bio: "[Short bio of speaker 5.]"
   website: ""
