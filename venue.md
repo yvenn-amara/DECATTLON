@@ -126,7 +126,7 @@ description: Address, access, and accommodation for the workshop.
 
     <p class="mt-4" style="font-size: 0.88rem; color: #5A5954;">
       Preferential rates may be available through negotiation with the organizers.
-      Contact us at <a href="mailto:"></a> for more information.
+      Contact us at <a href="mailto:retd-edl@edf.fr">retd-edl@edf.fr</a> for more information.
     </p>
   </div>
 </section>
@@ -139,7 +139,7 @@ description: Address, access, and accommodation for the workshop.
       For any logistical or organizational questions, please contact the organizing committee:
     </p>
     <p class="mt-2">
-      <a href="mailto:" class="btn btn-outline"></a>
+      <a href="mailto:retd-edl@edf.fr" class="btn btn-outline">retd-edl@edf.fr</a>
     </p>
     <p class="mt-4" style="font-size: 0.88rem; color: #5A5954;">
       The website will be regularly updated with additional practical information (shuttle, access badge, etc.).
