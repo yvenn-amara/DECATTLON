@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Appel à contributions — Session Posters
-description: Informations et instructions pour soumettre un poster au workshop.
+title: Call for Contributions — Poster Session
+description: Information and instructions for submitting a poster to the workshop.
 ---
 
 <div class="page-hero">
   <div class="container">
-    <p class="page-kicker">Appel à contributions</p>
-    <h1>Session Posters</h1>
-    <p class="lead">Soumettez vos travaux et échangez avec la communauté lors de la session posters du premier jour.</p>
+    <p class="page-kicker">Call for Contributions</p>
+    <h1>Poster Session</h1>
+    <p class="lead">Submit your work and exchange with the community during the poster session on the first day.</p>
   </div>
 </div>
 
@@ -18,61 +18,61 @@ description: Informations et instructions pour soumettre un poster au workshop.
 
       <!-- MAIN -->
       <div class="cfp-main">
-        <h2>Thèmes de soumission</h2>
+        <h2>Submission Topics</h2>
         <p>
-          Nous accueillons des contributions originales ou des résumés de travaux récents portant sur les thématiques du transfer learning et des modèles de fondation pour les séries temporelles, notamment :
+          We welcome original contributions or abstracts of recent work on the topics of transfer learning and foundation models for time series, including:
         </p>
 
         <ul class="topic-list">
-          <li>Architectures de modèles de fondation</li>
-          <li>Fine-tuning efficace (LoRA, adapters, soft prompts…)</li>
-          <li>Adaptation de domaine</li>
-          <li>Transfert multi-tâches et multi-domaines</li>
-          <li>Évaluation et benchmarks</li>
-          <li>Généralisation hors distribution</li>
-          <li>Applications séries temporelles et données multimodales</li>
+          <li>Foundation model architectures</li>
+          <li>Efficient fine-tuning (LoRA, adapters, soft prompts…)</li>
+          <li>Domain adaptation</li>
+          <li>Multi-task and multi-domain transfer</li>
+          <li>Evaluation and benchmarks</li>
+          <li>Out-of-distribution generalization</li>
+          <li>Time series applications and multimodal data</li>
         </ul>
 
         <p>
-          Les travaux peuvent être à un stade préliminaire ou publiés récemment. La session posters est conçue pour favoriser les échanges informels et les discussions approfondies.
+          Submissions may be at a preliminary stage or based on recently published work. The poster session is designed to encourage informal exchanges and in-depth discussions.
         </p>
 
-        <h2 class="mt-5">Instructions de soumission</h2>
-        <p>Les soumissions doivent respecter les consignes suivantes :</p>
+        <h2 class="mt-5">Submission Instructions</h2>
+        <p>Submissions must follow these guidelines:</p>
 
         <ul class="aside-list" style="margin: 1.25rem 0; border-left: none; padding-left: 0;">
           <li style="display: flex; gap: 0.6rem; align-items: flex-start; padding: 0.5rem 0; border-bottom: 1px solid #DDD9D0;">
-            <strong>Format :</strong> résumé d'une page maximum, format PDF, en français ou en anglais.
+            <strong>Format:</strong> one-page abstract maximum, PDF format, in French or English.
           </li>
           <li style="display: flex; gap: 0.6rem; align-items: flex-start; padding: 0.5rem 0; border-bottom: 1px solid #DDD9D0;">
-            <strong>Contenu :</strong> titre, auteurs et affiliations, résumé des travaux (problème, méthode, résultats principaux).
+            <strong>Content:</strong> title, authors and affiliations, abstract of the work (problem, method, main results).
           </li>
           <li style="display: flex; gap: 0.6rem; align-items: flex-start; padding: 0.5rem 0; border-bottom: 1px solid #DDD9D0;">
-            <strong>Envoi :</strong> via le formulaire en ligne ci-dessous, ou directement par e-mail à <a href="mailto:[ADRESSE MAIL DE SOUMISSION]">[ADRESSE MAIL DE SOUMISSION]</a>.
+            <strong>Submission:</strong> via the online form below, or directly by e-mail to <a href="mailto:retd-edl@edf.fr">retd-edl@edf.fr</a>.
           </li>
           <li style="display: flex; gap: 0.6rem; align-items: flex-start; padding: 0.5rem 0;">
-            <strong>Date limite :</strong> 2 octobre 2026
+            <strong>Deadline:</strong> October 2, 2026
           </li>
         </ul>
 
         <div class="hero-actions mt-4">
-          <a href="[URL_FRAMAFORM]" class="btn btn-primary" target="_blank" rel="noopener">
-            Soumettre via le formulaire →
+          <a href="https://framaforms.org/transfer-learning-and-time-series-fm-1781970359" class="btn btn-primary" target="_blank" rel="noopener">
+            Submit via the form →
           </a>
         </div>
 
         <p class="mt-3" style="font-size: 0.88rem; color: #5A5954;">
-          Vous pouvez aussi envoyer votre soumission directement à
-          <a href="mailto:[ADRESSE MAIL DE SOUMISSION]">[ADRESSE MAIL DE SOUMISSION]</a>.
+          You can also send your submission directly to
+          <a href="mailto:retd-edl@edf.fr">retd-edl@edf.fr</a>.
         </p>
 
-        <h2 class="mt-5">Sélection et notification</h2>
+        <h2 class="mt-5">Selection and Notification</h2>
         <p>
-          Les soumissions seront examinées par le comité d'organisation. Les auteurs seront notifiés par e-mail.
-          Les posters acceptés seront présentés lors de la session du mardi 3 novembre à partir de 16h00.
+          Submissions will be reviewed by the organizing committee. Authors will be notified by e-mail.
+          Accepted posters will be presented during the session on Tuesday, November 3 starting at 4:00 PM.
         </p>
         <p>
-          Le format du poster est libre (A0 portrait recommandé). L'impression ne sera pas prise en charge par les organisateurs du workshop.
+          The poster format is flexible (A0 portrait recommended). Printing will not be provided by the workshop organizers.
         </p>
       </div>
 
@@ -80,29 +80,29 @@ description: Informations et instructions pour soumettre un poster au workshop.
       <aside class="cfp-sidebar">
         <div class="info-card">
           <div class="info-card-header">
-            <h3>Date limite</h3>
-            <p class="info-date">2 octobre 2026</p>
+            <h3>Deadline</h3>
+            <p class="info-date">October 2, 2026</p>
           </div>
           <div class="info-card-body">
             <div class="info-row">
               <span class="info-label">Format</span>
-              <span class="info-value">Résumé PDF, 1 page max</span>
+              <span class="info-value">PDF abstract, 1 page max</span>
             </div>
             <div class="info-row">
-              <span class="info-label">Langue</span>
-              <span class="info-value">Français ou anglais</span>
+              <span class="info-label">Language</span>
+              <span class="info-value">French or English</span>
             </div>
             <div class="info-row">
               <span class="info-label">Notification</span>
-              <span class="info-value">23 octobre 2026</span>
+              <span class="info-value">October 23, 2026</span>
             </div>
             <div class="info-row">
-              <span class="info-label">Session posters</span>
-              <span class="info-value">Mardi 3 nov. · 16h00–17h30</span>
+              <span class="info-label">Poster session</span>
+              <span class="info-value">Tuesday, Nov 3 · 4:00–5:30 PM</span>
             </div>
             <div class="info-row">
               <span class="info-label">Contact</span>
-              <span class="info-value"><a href="mailto:[ADRESSE MAIL DE SOUMISSION]">[ADRESSE MAIL DE SOUMISSION]</a></span>
+              <span class="info-value"><a href="mailto:retd-edl@edf.fr">retd-edl@edf.fr</a></span>
             </div>
           </div>
         </div>
@@ -110,10 +110,10 @@ description: Informations et instructions pour soumettre un poster au workshop.
         <div class="info-card mt-4" style="margin-top: 1.25rem;">
           <div class="info-card-body">
             <p style="font-size: 0.85rem; color: #5A5954; margin: 0; line-height: 1.6;">
-              <strong style="color: #1A1916;">Questions ?</strong><br>
-              N'hésitez pas à contacter le comité d'organisation à l'adresse
-              <a href="mailto:[ADRESSE MAIL CONTACT]">[ADRESSE MAIL CONTACT]</a>
-              pour toute question relative à la soumission.
+              <strong style="color: #1A1916;">Questions?</strong><br>
+              Feel free to contact the organizing committee at
+              <a href="mailto:retd-edl@edf.fr">retd-edl@edf.fr</a>
+              for any question related to your submission.
             </p>
           </div>
         </div>
