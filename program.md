@@ -23,7 +23,7 @@ description: Detailed program for the two days of the workshop.
 
     <!-- DAY 1 -->
     <div id="day1" class="day-panel is-active" role="tabpanel" aria-labelledby="tab-day1">
-      <p class="day-label"></p>
+      <p class="day-label">{{ site.data.program.day1.label }}</p>
       <div class="timeline">
         {% for session in site.data.program.day1.sessions %}
         {% assign type = session.type %}
@@ -36,20 +36,20 @@ description: Detailed program for the two days of the workshop.
         {% elsif type == "meal" %}{% assign badge = "Meal" %}
         {% else %}{% assign badge = "Break" %}
         {% endif %}
-        <div class="timeline-item" data-type="">
+        <div class="timeline-item" data-type="{{ type }}">
           <div class="session-card">
             <div class="session-head">
-              <span class="session-badge badge-"></span>
-              <span class="session-time"></span>
+              <span class="session-badge badge-{{ type }}">{{ badge }}</span>
+              <span class="session-time">{{ session.time }}</span>
             </div>
-            <p class="session-title"></p>
+            <p class="session-title">{{ session.title }}</p>
             {% if session.speakers %}
             <p class="session-speakers">
-              {% for sp in session.speakers %}{% unless forloop.last %}, {% endunless %}{% endfor %}
+              {% for sp in session.speakers %}{{ sp }}{% unless forloop.last %}, {% endunless %}{% endfor %}
             </p>
             {% endif %}
             {% if session.description %}
-            <p class="session-desc"></p>
+            <p class="session-desc">{{ session.description }}</p>
             {% endif %}
           </div>
         </div>
@@ -59,7 +59,7 @@ description: Detailed program for the two days of the workshop.
 
     <!-- DAY 2 -->
     <div id="day2" class="day-panel" role="tabpanel" aria-labelledby="tab-day2">
-      <p class="day-label"></p>
+      <p class="day-label">{{ site.data.program.day2.label }}</p>
       <div class="timeline">
         {% for session in site.data.program.day2.sessions %}
         {% assign type = session.type %}
@@ -72,20 +72,20 @@ description: Detailed program for the two days of the workshop.
         {% elsif type == "meal" %}{% assign badge = "Meal" %}
         {% else %}{% assign badge = "Break" %}
         {% endif %}
-        <div class="timeline-item" data-type="">
+        <div class="timeline-item" data-type="{{ type }}">
           <div class="session-card">
             <div class="session-head">
-              <span class="session-badge badge-"></span>
-              <span class="session-time"></span>
+              <span class="session-badge badge-{{ type }}">{{ badge }}</span>
+              <span class="session-time">{{ session.time }}</span>
             </div>
-            <p class="session-title"></p>
+            <p class="session-title">{{ session.title }}</p>
             {% if session.speakers %}
             <p class="session-speakers">
-              {% for sp in session.speakers %}{% unless forloop.last %}, {% endunless %}{% endfor %}
+              {% for sp in session.speakers %}{{ sp }}{% unless forloop.last %}, {% endunless %}{% endfor %}
             </p>
             {% endif %}
             {% if session.description %}
-            <p class="session-desc"></p>
+            <p class="session-desc">{{ session.description }}</p>
             {% endif %}
           </div>
         </div>
