@@ -7,7 +7,7 @@ title: Home
 <section class="hero" style="margin-top: 64px;">
   <div class="container">
     <p class="hero-kicker">Workshop · November 3–4, 2026 · EDF Lab, Palaiseau</p>
-    <h1 class="hero-title">Transfer Learning<br>and Time Series Foundation Models</h1>
+    <h1 class="hero-title">Transfer Learning<br>and Foundation Models for Time Series</h1>
     <div class="hero-meta">
       <div class="hero-meta-item">
         <!-- Calendar icon -->
