@@ -22,7 +22,7 @@ title: Home
     </div>
     <div class="hero-actions">
       <a href="{{ '/program/' | relative_url }}" class="btn btn-primary">View the program</a>
-      <a href="https://framaforms.org/transfer-learning-and-time-series-fm-1781970359" class="btn btn-outline">Submit a poster</a>
+      <a href="https://framaforms.org/transfer-learning-and-time-series-fm-1781970359" class="btn btn-outline">Register and/or submit a poster</a>
     </div>
   </div>
 </section>
