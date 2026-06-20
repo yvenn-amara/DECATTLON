@@ -1,11 +1,12 @@
+
 <header class="site-header" role="banner">
   <div class="container header-inner">
-    <a href="{{ '/' | relative_url }}" class="site-logo" aria-label="{{ site.title }} — Accueil">
+    <a href="{{ '/' | relative_url }}" class="site-logo" aria-label="{{ site.title }} — Home">
       <span class="logo-title">{{ site.title }}</span>
       <span class="logo-sub">{{ site.event.start_date }} · {{ site.event.location }}</span>
     </a>
     {% include nav.html %}
-    <button class="nav-toggle" aria-label="Ouvrir le menu" aria-expanded="false" aria-controls="main-nav">
+    <button class="nav-toggle" aria-label="Open menu" aria-expanded="false" aria-controls="main-nav">
       <span></span><span></span><span></span>
     </button>
   </div>
