@@ -74,7 +74,7 @@ day2:
       title: "TabICLv2"
       type: "plenary"
       speakers:
-        - "David Holzmüller (INRIA)"
+        - "Speaker TBC (INRIA)"
       description: "A better, faster, scalable, and open tabular foundation model"
 
     - time: "12h00–13h30"
