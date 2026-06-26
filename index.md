@@ -33,7 +33,7 @@ title: Home
     <div class="intro-grid">
       <div class="intro-text">
         <h2>Context and Objectives</h2>
-        <p class="lead">This event, co-organized by the ANR DECATTLON project and EDF R&D, and sponsored by the French network of ENBIS (frENBIS), is part of the initiatives to promote statistics and machine learning methods within companies and industry.
+        <p class="lead">This event, co-organized by the <a href="https://anr.fr/Projet-ANR-24-CE40-3341" target="_blank" rel="noopener noreferrer">ANR DECATTLON project</a> and <a href="https://www.edf.fr/groupe-edf/innover/rd-un-savoir-faire-mondial" target="_blank" rel="noopener noreferrer">EDF R&amp;D</a>, and sponsored by the <a href="https://enbis.org/activities/ln/frenbis/" target="_blank" rel="noopener noreferrer">French network of ENBIS (frENBIS)</a>, is part of the initiatives to promote statistics and machine learning methods within companies and industry.
 Transfer learning marked a turning point by enabling the reuse of knowledge acquired on one task to solve another, thereby optimizing resources and data. With the emergence of foundation models – general and powerful architectures like Transformers – this approach has undergone a new revolution. These models, pre-trained on massive volumes of data, provide universal bases that are easily adaptable to specific applications through advanced transfer learning techniques. They thus redefine the practices of personalization and efficiency in artificial intelligence.</p>
       </div>
       <aside class="intro-aside">
