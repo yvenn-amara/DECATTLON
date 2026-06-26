@@ -40,11 +40,7 @@ the offset between source and target distributions. Our main result is a bound o
         - "Vladimir R. Kostic"
       description: "[Description TBD]"
 
-    - time: "14h50–15h15"
-      title: "Coffee break"
-      type: "break"
-
-    - time: "15h15–15h55"
+    - time: "14h50–15h30"
       title: "Adaptation to data shift without labels : Methods, benchmarks and domain adaptation on biomedical signals."
       type: "plenary"
       speakers:
@@ -54,7 +50,7 @@ approaches that have been proposed to tackle data shift. Then we will introduce 
 Finally, we will focus on a specific modality, electroencephalograms (EEGs) and the problem of sleep stage classification, and present an approach based on optimal transport that allows to model, and use the
 specificity of the different subjects for better personalized predictions."
 
-    - time: "15h55–16h35"
+    - time: "15h30–16h30"
       title: "Poster session + discussions"
       type: "poster"
       description: "Presentation of selected posters, informal discussions with the authors over refreshments."
