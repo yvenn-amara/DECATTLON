@@ -25,11 +25,13 @@ day1:
       type: "meal"
 
     - time: "13h30–14h10"
-      title: "[TOPIC TBD]"
+      title: "Transfer learning for Conditional Average Treatment Effect (CATE) estimation."
       type: "plenary"
       speakers:
         - "Véronique Maume-Deschamps"
-      description: "[Description TBD]"
+      description: "The talk presents a joint work with Bérénice-Alexia Jocteur and Pierre Ribereau. It will focus on model shift and transfer learning applied for a causal forest namely HTERF. This causal forest aims to estimate the
+Conditional Average Treatment Effect (CATE). The approach considered is the offset method presented by Wang (2016) adapted to a causal context. This method relies on the use of intermediate models in order to estimate
+the offset between source and target distributions. Our main result is a bound on the CATE error of HTERF on target depending on the error of the intermediate models."
 
     - time: "14h10–14h50"
       title: "[TOPIC TBD]"
@@ -43,11 +45,14 @@ day1:
       type: "break"
 
     - time: "15h15–15h55"
-      title: "[TOPIC TBD]"
+      title: "Adaptation to data shift without labels : Methods, benchmarks and domain adaptation on biomedical signals."
       type: "plenary"
       speakers:
         - "Rémi Flamary"
-      description: "[Description TBD]"
+      description: "Domain Adaptation (DA) is a fundamental Machine Learning challenge that aim at adapting supervised predictors to new data in the absence of labels on the new data. We will first present the problem and classical
+approaches that have been proposed to tackle data shift. Then we will introduce a multimodal benchmark of those methods and discuss the results, highlighting the limits of the current approaches in practice.
+Finally, we will focus on a specific modality, electroencephalograms (EEGs) and the problem of sleep stage classification, and present an approach based on optimal transport that allows to model, and use the
+specificity of the different subjects for better personalized predictions."
 
     - time: "15h55–16h35"
       title: "Poster session + discussions"
