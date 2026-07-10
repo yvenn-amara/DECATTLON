@@ -7,18 +7,18 @@ day1:
       description: "Participant registration, welcome coffee."
 
     - time: "10h00–11h00"
-      title: "[TOPIC TBD]"
+      title: "Transfer Learning. Theory, methods and applications"
       type: "plenary"
       speakers:
         - "Mathilde Mougeot"
-      description: "[Description TBD]"
+      description: "It is well known the greater the volume of data the better the performance of a model. However, for given applications, access to large databases to train a model is not necessarily easy. The aim of transfer learning is to take advantage of basic model sources or pre-existing data in order to adapt a high-performance model to a given target application for which sufficient data is not directly available. This course will present various transfer learning methods (instance-based, feature-based, parameter-based) that have been introduced in the literature depending on the information available for the source and the target. Different approaches will be presented depending on the class of models used: models based on neural networks, models based on decision trees, models based on Gaussian processes, etc. Concrete application cases will also be presented in which transfer learning has been used to obtain very high-performance machine learning models, even when dedicated data are scarce or even non-existent."
 
     - time: "11h00–12h00"
-      title: "Practical workshop"
+      title: "Transfer Learning. Practical workshop"
       type: "workshop"
       speakers:
         - "Mathilde Mougeot"
-      description: "[Description TBD]"
+      description: "Part of the concepts presented before will be illustrated from a practical point of view using the ADAPT library, which offers free access to a large majority of transfer learning algorithms presented in the literature. These algorithms will be used both on simulated and real databases. By taking into account all the former elements (presentation of the methods, illustration on concrete cases and operational practice on simple examples), this course offers all the ingredients necessary to tackle problems of transfer learning on your own using new data."
 
     - time: "12h00-13h30"
       title: "Lunch"
@@ -34,11 +34,11 @@ Conditional Average Treatment Effect (CATE). The approach considered is the offs
 the offset between source and target distributions. Our main result is a bound on the CATE error of HTERF on target depending on the error of the intermediate models."
 
     - time: "14h10–14h50"
-      title: "[TOPIC TBD]"
+      title: "Langevin-Informed Transfer Learning: Replacing Target Samples by Black-Box Feedback"
       type: "plenary"
       speakers:
         - "Vladimir R. Kostic"
-      description: "[Description TBD]"
+      description: "Many scientific and machine learning systems from molecular dynamics to diffusion models and beyond are governed by stochastic dynamics with low-dimensional structure evolving on slow timescales. However target trajectories used to identify and interpret such dynamics are often inaccessible: only biased or static samples that explore the underlying manifold are available. In this talk we present Langevin-Informed Transfer Learning (LITL) a novel framework for recovering target Langevin dynamics from biased source samples using only black-box feedback. LITL learns the leading spectral structure of the target infinitesimal generator and the projected drift through Dirichlet representation learning, thus enabling kinetic reconstruction in spectral form and slow-manifold gradient field estimation. In particular, we will discuss a spherical variant well suited to steering normalized latent representations commonly used in learning systems toward desired objectives. While we will cover finite-sample guarantees for eigenvalue eigenfunction and projected drift estimation in Sobolev norms, we will also show empirically how LITL recovers physical transition timescales from biased molecular simulations, now it builds kinetic structure from static samples of generative models and how it reconstructs spherical symmetries of physical systems. Finally, we will demonstrate how it enables post-hoc latent steering of trained neural networks under black-box feedback."
 
     - time: "14h50–15h30"
       title: "Adaptation to data shift without labels : Methods, benchmarks and domain adaptation on biomedical signals."
