@@ -51,7 +51,7 @@ Transfer learning marked a turning point by enabling the reuse of knowledge acqu
   </div>
 </section>
 
-<!-- SPEAKERS --> 
+<!-- SPEAKERS -->
 <section class="section section--alt fade-in">
   <div class="container">
     <h2 class="mb-4">Speakers</h2>
@@ -68,11 +68,7 @@ Transfer learning marked a turning point by enabling the reuse of knowledge acqu
           {% endif %}
         </div>
 
-        {% if speaker.website and speaker.website != "" %}
-        <a href="{{ speaker.website }}" class="speaker-name" target="_blank" rel="noopener">{{ speaker.name }}</a>
-        {% else %}
         <p class="speaker-name">{{ speaker.name }}</p>
-        {% endif %}
 
         <p class="speaker-affil">
           {{ speaker.title }}
@@ -83,11 +79,16 @@ Transfer learning marked a turning point by enabling the reuse of knowledge acqu
         {% if speaker.bio and speaker.bio != "" %}
         <p class="speaker-bio">{{ speaker.bio }}</p>
         {% endif %}
+
+        {% if speaker.website and speaker.website != "" %}
+        <a href="{{ speaker.website }}" class="speaker-link" target="_blank" rel="noopener">Visit website ↗</a>
+        {% endif %}
       </div>
       {% endfor %}
     </div>
   </div>
 </section>
+
 
 <!-- CTA -->
 <section class="section section--accent fade-in">

@@ -404,16 +404,6 @@ p:last-child { margin-bottom: 0; }
     font-weight: 600;
     color: $text-primary;
     margin-bottom: 0.25rem;
-    display: inline-block;
-
-    &[href] {
-      text-decoration: none;
-      cursor: pointer;
-      &:hover {
-        text-decoration: underline;
-        color: $accent;
-      }
-    }
   }
 
   .speaker-affil {
@@ -428,6 +418,19 @@ p:last-child { margin-bottom: 0; }
     line-height: 1.5;
     margin-top: 0.75rem;
     text-align: left;
+  }
+
+  .speaker-link {
+    display: inline-block;
+    margin-top: 0.75rem;
+    font-size: 0.8rem;
+    font-weight: 600;
+    color: $accent;
+
+    &:hover {
+      color: $accent-hover;
+      text-decoration: underline;
+    }
   }
 }
 
