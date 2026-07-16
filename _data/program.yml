@@ -84,7 +84,7 @@ day2:
 
     - time: "13h30–14h10"
       title: "TS-ICL: A Flexible Time-Indexed Foundation Model for Time Series via In-Context Learning"
-      type: "session"
+      type: "plenary"
       speakers:
         - "Tahar Nabil(EDF)"
         - "Etienne Le Naour (EDF)"
@@ -92,7 +92,7 @@ day2:
       
     - time: "14h10–14h50"
       title: "CauKer: Classification Time Series Foundation Models Can Be Pretrained on Synthetic Data"
-      type: "session"
+      type: "plenary"
       speakers:
         - "Shifeng Xie (Paris Cité)"
       description: "The success of time series foundation models largely relies on large-scale pretraining datasets, whose collection and curation remain costly and challenging. This talk presents CauKer, a synthetic data generation framework designed to pretrain classification foundation models on diverse and causally coherent time series. By combining Gaussian Process kernels with Structural Causal Models, CauKer generates realistic synthetic data that enables effective pretraining across different architectures. The presentation discusses how synthetic data can serve as a scalable alternative to real-world collections and sheds light on the scaling behavior of time series foundation models."
@@ -103,14 +103,14 @@ day2:
       
     - time: "15h15–15h55"
       title: "Retrieval Over Training: Similarity Search-Based Model Selection for Time Series Anomaly Detection."
-      type: "session"
+      type: "plenary"
       speakers:
         - "Roberto Stanzione (ENS Ulm)"
       description: "Selecting effective anomaly detection models remains a major challenge in time series analysis, as no single method consistently performs well across diverse datasets and application scenarios. This talk presents RAMSAD, a retrieval-based framework that addresses this challenge through similarity search rather than additional model training. By retrieving previously observed time series with similar characteristics, RAMSAD leverages their performance profiles to recommend suitable anomaly detectors for new instances. The presentation discusses how retrieval-based approaches can improve model selection, particularly in out-of-distribution settings, and provide a scalable alternative to traditional adaptation strategies."
 
     - time: "15h55–16h35"
       title: "Industry Talk"
-      type: "session"
+      type: "plenary"
       speakers:
         - "Decathlon or EDF"
       description: "Use cases and feedback"
