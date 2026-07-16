@@ -375,14 +375,6 @@ p:last-child { margin-bottom: 0; }
   border-radius: 6px;
   padding: 1.5rem 1.25rem;
   text-align: center;
-  
-  .speaker-bio {
-  font-size: 0.78rem;
-  color: $text-muted;
-  line-height: 1.5;
-  margin-top: 0.75rem;
-  text-align: left;
-}
 
   .speaker-avatar {
     width: 64px;
@@ -412,12 +404,30 @@ p:last-child { margin-bottom: 0; }
     font-weight: 600;
     color: $text-primary;
     margin-bottom: 0.25rem;
+    display: inline-block;
+
+    &[href] {
+      text-decoration: none;
+      cursor: pointer;
+      &:hover {
+        text-decoration: underline;
+        color: $accent;
+      }
+    }
   }
 
   .speaker-affil {
     font-size: 0.78rem;
     color: $text-muted;
     line-height: 1.4;
+  }
+
+  .speaker-bio {
+    font-size: 0.78rem;
+    color: $text-muted;
+    line-height: 1.5;
+    margin-top: 0.75rem;
+    text-align: left;
   }
 }
 
