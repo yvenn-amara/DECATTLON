@@ -51,7 +51,7 @@ Transfer learning marked a turning point by enabling the reuse of knowledge acqu
   </div>
 </section>
 
-<!-- SPEAKERS -->
+<!-- SPEAKERS --> 
 <section class="section section--alt fade-in">
   <div class="container">
     <h2 class="mb-4">Speakers</h2>
