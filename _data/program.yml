@@ -112,5 +112,5 @@ day2:
       title: "Industry Talk"
       type: "plenary"
       speakers:
-        - "Decathlon or EDF"
-      description: "Use cases and feedback"
+        - "Raphaël Nedellec (Decathlon)"
+      description: "Forecasting in operation at Decathlon"
