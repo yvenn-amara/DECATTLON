@@ -75,7 +75,7 @@ day2:
       title: "TabICLv2: A Better, Faster, Scalable, and Open Tabular Foundation Model"
       type: "plenary"
       speakers:
-        - "David Holzmüller or Gaël Varoquaux (INRIA)"
+        - "David Holzmüller or Gaël Varoquaux (INRIA Soda)"
       description: "Foundation models are rapidly transforming tabular machine learning, demonstrating the potential of large-scale pretraining and in-context learning for predictive tasks. This talk presents TabICLv2, a new open foundation model for tabular data that advances the state of the art in both performance and scalability. The presentation highlights the key ideas behind the model, including innovations in synthetic data generation, model architecture, and pretraining, and discusses how these advances enable stronger generalization across datasets while making foundation models more practical for real-world applications."
 
     - time: "12h00–13h30"
@@ -105,7 +105,7 @@ day2:
       title: "Retrieval Over Training: Similarity Search-Based Model Selection for Time Series Anomaly Detection."
       type: "plenary"
       speakers:
-        - "Roberto Stanzione (ENS Ulm)"
+        - "Roberto Stanzione (INRIA Valda)"
       description: "Selecting effective anomaly detection models remains a major challenge in time series analysis, as no single method consistently performs well across diverse datasets and application scenarios. This talk presents RAMSAD, a retrieval-based framework that addresses this challenge through similarity search rather than additional model training. By retrieving previously observed time series with similar characteristics, RAMSAD leverages their performance profiles to recommend suitable anomaly detectors for new instances. The presentation discusses how retrieval-based approaches can improve model selection, particularly in out-of-distribution settings, and provide a scalable alternative to traditional adaptation strategies."
 
     - time: "15h55–16h35"

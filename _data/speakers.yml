@@ -14,14 +14,19 @@
   bio: "Mathilde is a researcher in applied mathematics and data science. Her work focuses on statistical learning, predictive modelling, model aggregation, and transfer learning, with strong ties to industrial applications."
   website: "https://sites.google.com/site/mougeotmathilde/"
 
+- name: "Roberto Stanzione"
+  affiliation: "INRIA (Valda)"
+  title: "Post-Doc student"
+  photo: ""
+  bio: ""
+  website: ""
+
 - name: "Shifeng Xie"
   affiliation: "Université Paris Cité"
   title: "PhD student"
   photo: "assets/img/ShifengXie.png"
   bio: "Shifeng is a PhD student in Themis Palpanas's group at Université Paris Cité, after studying engineering at Télécom Paris and Institut Polytechnique de Paris. His research focuses on time series foundation models and agentic systems for forecasting, reasoning, and decision-making."
   website: "https://shifengxie.github.io"
-
-
 
 - name: "Tahar Nabil"
   affiliation: "EDF R&D"
