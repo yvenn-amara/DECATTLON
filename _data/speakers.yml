@@ -10,7 +10,7 @@
 - name: "Mathilde Mougeot"
   affiliation: "ENS Paris-Saclay / Centre Borelli / ENSIIE"
   title: "Professor of Data Science & Holder of the Industrial Data Analytics and Machine Learning Chair"
-  photo: "https://ens-paris-saclay.fr/sites/default/files/styles/actu_bandeau/public/2021-10/mougeot_mathilde_photo_v2_recadree.jpg"
+  photo: "assets/img/MathildeMougeot.png"
   bio: "Mathilde is a researcher in applied mathematics and data science. Her work focuses on statistical learning, predictive modelling, model aggregation, and transfer learning, with strong ties to industrial applications."
   website: "https://sites.google.com/site/mougeotmathilde/"
 
@@ -20,6 +20,8 @@
   photo: "assets/img/ShifengXie.png"
   bio: "Shifeng is a PhD student in Themis Palpanas's group at Université Paris Cité, after studying engineering at Télécom Paris and Institut Polytechnique de Paris. His research focuses on time series foundation models and agentic systems for forecasting, reasoning, and decision-making."
   website: "https://shifengxie.github.io"
+
+
 
 - name: "Tahar Nabil"
   affiliation: "EDF R&D"
