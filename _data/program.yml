@@ -67,7 +67,7 @@ day2:
       title: "Introduction to Deep Learning for Time Series: Towards Better Generalization at Inference"
       type: "plenary"
       speakers:
-        - "Adrien Petralia (Mistral)"
+        - "Adrien Petralia (Mistral AI)"
         - "Etienne Le Naour (EDF)"
       description: "This introductory talk provides the background needed to understand the recent emergence of foundation models for time series. It begins with a concise overview of the deep learning methods that have shaped the field over the past decade, covering key architectures and their applications to forecasting, classification, imputation, regression and anomaly detection. It then discusses the limitations of task- and dataset-specific training, motivating the need for models that learn more general and transferable temporal representations. This evolution naturally leads to the paradigm of foundation models, which will be explored in depth throughout the subsequent talks of the workshop."
 
@@ -75,7 +75,7 @@ day2:
       title: "TabICLv2: A Better, Faster, Scalable, and Open Tabular Foundation Model"
       type: "plenary"
       speakers:
-        - "Speaker TBC (INRIA)"
+        - "David Holzmüller or Gaël Varoquaux (INRIA)"
       description: "Foundation models are rapidly transforming tabular machine learning, demonstrating the potential of large-scale pretraining and in-context learning for predictive tasks. This talk presents TabICLv2, a new open foundation model for tabular data that advances the state of the art in both performance and scalability. The presentation highlights the key ideas behind the model, including innovations in synthetic data generation, model architecture, and pretraining, and discusses how these advances enable stronger generalization across datasets while making foundation models more practical for real-world applications."
 
     - time: "12h00–13h30"
