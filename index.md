@@ -73,6 +73,9 @@ Transfer learning marked a turning point by enabling the reuse of knowledge acqu
           {% if speaker.title != "" and speaker.affiliation != "" %}<br>{% endif %}
           {{ speaker.affiliation }}
         </p>
+        {% if speaker.bio and speaker.bio != "" %}
+        <p class="speaker-bio">{{ speaker.bio }}</p>
+        {% endif %}
       </div>
       {% endfor %}
     </div>
