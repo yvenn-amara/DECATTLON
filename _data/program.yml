@@ -63,50 +63,50 @@ day2:
       type: "break"
       description: "Participant registration, welcome coffee."
 
-    - time: "10h00–11h00"
-      title: "Introduction to Deep Learning for Time Series"
+    - time: "10h00–10h45"
+      title: "Introduction to Deep Learning for Time Series: Towards Better Generalization at Inference"
       type: "plenary"
       speakers:
         - "Adrien Petralia (Mistral)"
         - "Etienne Le Naour (EDF)"
-      description: "Towards better generalization at inference"
+      description: "This introductory talk provides the background needed to understand the recent emergence of foundation models for time series. It begins with a concise overview of the deep learning methods that have shaped the field over the past decade, covering key architectures and their applications to forecasting, classification, imputation, regression and anomaly detection. It then discusses the limitations of task- and dataset-specific training, motivating the need for models that learn more general and transferable temporal representations. This evolution naturally leads to the paradigm of foundation models, which will be explored in depth throughout the subsequent talks of the workshop."
 
-    - time: "11h15–12h45"
-      title: "TabICLv2"
+    - time: "11h–11h45"
+      title: "TabICLv2: A Better, Faster, Scalable, and Open Tabular Foundation Model"
       type: "plenary"
       speakers:
         - "Speaker TBC (INRIA)"
-      description: "A better, faster, scalable, and open tabular foundation model"
+      description: "Foundation models are rapidly transforming tabular machine learning, demonstrating the potential of large-scale pretraining and in-context learning for predictive tasks. This talk presents TabICLv2, a new open foundation model for tabular data that advances the state of the art in both performance and scalability. The presentation highlights the key ideas behind the model, including innovations in synthetic data generation, model architecture, and pretraining, and discusses how these advances enable stronger generalization across datasets while making foundation models more practical for real-world applications."
 
     - time: "12h00–13h30"
       title: "Lunch"
       type: "meal"
 
     - time: "13h30–14h10"
-      title: "TS-ICL"
+      title: "TS-ICL: A Flexible Time-Indexed Foundation Model for Time Series via In-Context Learning"
       type: "session"
       speakers:
         - "Tahar Nabil(EDF)"
         - "Etienne Le Naour (EDF)"
-      description: "A Flexible Time-Indexed Foundation Model for Time Series via In-Context Learning (Imputation & Forecasting)."
+      description: "While most time series foundation models have focused on forecasting, many real-world applications require reasoning over irregularly and partially observed data. This talk presents TS-ICL, a foundation model that unifies forecasting and imputation within a single in-context learning framework. By casting time series problems as timestamp-aligned regression and leveraging large-scale synthetic pretraining, TS-ICL learns flexible temporal representations that generalize across tasks and observation settings. The presentation discusses the core principles behind the model and illustrates how in-context learning can enable more versatile and robust time series foundation models."
       
     - time: "14h10–14h50"
-      title: "CauKer"
+      title: "CauKer: Classification Time Series Foundation Models Can Be Pretrained on Synthetic Data"
       type: "session"
       speakers:
         - "Shifeng Xie (Paris Cité)"
-      description: "Classification Time Series Foundation Models Can Be Pretrained on Synthetic Data."
+      description: "The success of time series foundation models largely relies on large-scale pretraining datasets, whose collection and curation remain costly and challenging. This talk presents CauKer, a synthetic data generation framework designed to pretrain classification foundation models on diverse and causally coherent time series. By combining Gaussian Process kernels with Structural Causal Models, CauKer generates realistic synthetic data that enables effective pretraining across different architectures. The presentation discusses how synthetic data can serve as a scalable alternative to real-world collections and sheds light on the scaling behavior of time series foundation models."
       
     - time: "14h50–15h15"
       title: "Coffee break"
       type: "break"
       
     - time: "15h15–15h55"
-      title: "Model selection for anomaly detection via Chronos-2 embeddings."
+      title: "Retrieval Over Training: Similarity Search-Based Model Selection for Time Series Anomaly Detection."
       type: "session"
       speakers:
-        - "Paul Boniol (INRIA)"
-      description: "Anomaly detection"
+        - "Roberto Stanzione (ENS Ulm)"
+      description: "Selecting effective anomaly detection models remains a major challenge in time series analysis, as no single method consistently performs well across diverse datasets and application scenarios. This talk presents RAMSAD, a retrieval-based framework that addresses this challenge through similarity search rather than additional model training. By retrieving previously observed time series with similar characteristics, RAMSAD leverages their performance profiles to recommend suitable anomaly detectors for new instances. The presentation discusses how retrieval-based approaches can improve model selection, particularly in out-of-distribution settings, and provide a scalable alternative to traditional adaptation strategies."
 
     - time: "15h55–16h35"
       title: "Industry Talk"
