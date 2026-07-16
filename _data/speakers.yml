@@ -28,12 +28,12 @@
   bio: "[Short bio of speaker 3.]"
   website: ""
 
-- name: "[NAME 4]"
-  affiliation: "[INSTITUTION 4]"
-  title: "[POSITION 4]"
-  photo: ""
-  bio: "[Short bio of speaker 4.]"
-  website: ""
+- name: "Adrien Petralia"
+  affiliation: "Mistral AI"
+  title: "Applied AI Scientist"
+  photo: "assets/img/Petralia.png"
+  bio: "Adrien hold a PhD from Université Paris-Cité, he is specalized in deep learning for time series"
+  website: "https://adrienpetralia.github.io/"
 
 - name: "[NAME 5]"
   affiliation: "[INSTITUTION 5]"
