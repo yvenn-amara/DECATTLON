@@ -94,7 +94,7 @@ day2:
       title: "CauKer: Classification Time Series Foundation Models Can Be Pretrained on Synthetic Data"
       type: "plenary"
       speakers:
-        - "Shifeng Xie (Paris Cité)"
+        - "Shifeng Xie (Université Paris Cité)"
       description: "The success of time series foundation models largely relies on large-scale pretraining datasets, whose collection and curation remain costly and challenging. This talk presents CauKer, a synthetic data generation framework designed to pretrain classification foundation models on diverse and causally coherent time series. By combining Gaussian Process kernels with Structural Causal Models, CauKer generates realistic synthetic data that enables effective pretraining across different architectures. The presentation discusses how synthetic data can serve as a scalable alternative to real-world collections and sheds light on the scaling behavior of time series foundation models."
       
     - time: "14h50–15h15"
