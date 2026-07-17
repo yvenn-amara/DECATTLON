@@ -39,7 +39,7 @@
   affiliation: "EDF R&D"
   title: "AI Scientist"
   photo: "assets/img/LeNaour.png"
-  bio: "Etienne holds a PhD from Sorbonne Université, in collaboration with EDF R&D, on neural representation learning for time series. He now builds foundation models for forecasting and imputation."
+  bio: "Etienne holds a PhD from Sorbonne Université, in collaboration with EDF R&D, on neural representation learning for time series. He now builds foundation models for time series with a focus on forecasting and imputation."
   website: "https://etiennelnr.github.io/"
 
 - name: "Roberto Stanzione"
@@ -47,4 +47,12 @@
   title: "Post-Doc student"
   photo: ""
   bio: "Roberto completed his PhD at the University of Salerno, working on relaxed functional dependencies, concept drift detection in machine learning systems, and federated learning. He is now a post-doc in the Valda team at Inria."
-  website: ""
+  website: "https://scholar.google.com/citations?user=bIFPBwMAAAAJ&hl=it"
+
+
+- name: "Raphael Nedellec"
+  affiliation: "Decathlon"
+  title: "Data Science Manager"
+  photo: "assets/img/R_Nedellec.png"
+  bio: "Raphael's research focuses on forecasting and calibrated quantile regression using semi-parametric additive models, with widely-used contributions such as the qgam and mgcViz R packages. He now leads data science work at Decathlon."
+  website: "https://scholar.google.com/citations?user=GAisXYIAAAAJ&hl=en"
