@@ -39,8 +39,8 @@ Transfer learning marked a turning point by enabling the reuse of knowledge acqu
       <aside class="intro-aside">
         <h3>Topics Covered</h3>
         <ul class="aside-list">
-          <li>Foundation model architectures (transformers, SSM, hybrid)</li>
-          <li>Fine-tuning strategies: LoRA, adapters, prompt tuning</li>
+          <li>Foundation model architectures (synthetic prior, in-context learning, transformers)</li>
+          <li>Time series tasks: forecasting, regression, imputation, classification, anomaly detection</li>
           <li>Domain adaptation and multi-task transfer</li>
           <li>Robust evaluation and benchmarks</li>
           <li>Industrial applications and industry use cases</li>
