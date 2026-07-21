@@ -21,6 +21,20 @@
   bio: "Véronique Maume-Deschamps is Professor of Applied Mathematics at Université Claude Bernard Lyon 1 and Director of the Institut Camille Jordan. Her research spans probability, statistics, and uncertainty quantification, with a particular focus on stochastic dependence modelling, extreme value theory, statistical learning, and risk analysis, motivated by applications in insurance, finance, and environmental sciences."
   website: "https://math.univ-lyon1.fr/~maume/"
 
+- name: "Vladimir R. Kostić"
+  affiliation: "University of Novi Sad & Italian Institute of Technology"
+  title: "Associate Professor of Applied Mathematics & Senior Researcher"
+  photo: "assets/img/Kostic.png"
+  bio: "Vladimir R. Kostić is an Associate Professor of Applied Mathematics at the University of Novi Sad and a Senior Researcher at the Italian Institute of Technology. His research lies at the intersection of computational mathematics, numerical linear algebra, statistics, and machine learning, with a particular focus on stochastic processes, dynamical systems, and the development of computational methods for AI for Science."
+  website: "https://vladi-iit.github.io/"
+
+- name: "Rémi Flamary"
+  affiliation: "École Polytechnique"
+  title: "Professor of Applied Mathematics"
+  photo: "assets/img/Flamary.png"
+  bio: "Rémi Flamary is Professor of Applied Mathematics at École Polytechnique and a member of the CMAP laboratory. His research lies at the intersection of machine learning, optimization, and optimal transport, with a particular focus on domain adaptation, graph learning, representation learning, and statistical signal processing, motivated by applications in biomedical engineering, remote sensing, energy, climate, and astronomy."
+  website: "https://remi.flamary.com/"
+
 - name: "Shifeng Xie"
   affiliation: "Université Paris Cité"
   title: "PhD student"
