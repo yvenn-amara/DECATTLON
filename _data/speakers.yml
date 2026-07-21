@@ -14,6 +14,13 @@
   bio: "Mathilde is a researcher in applied mathematics and data science. Her work focuses on statistical learning, predictive modelling, model aggregation, and transfer learning, with strong ties to industrial applications."
   website: "https://sites.google.com/site/mougeotmathilde/"
 
+- name: "Véronique Maume-Deschamps"
+  affiliation: "Université Claude Bernard Lyon 1"
+  title: "Professor of Applied Mathematics & Director of the Institut Camille Jordan (ICJ)"
+  photo: "assets/img/Maume-Deschamps.png"
+  bio: "Véronique Maume-Deschamps is Professor of Applied Mathematics at Université Claude Bernard Lyon 1 and Director of the Institut Camille Jordan. Her research spans probability, statistics, and uncertainty quantification, with a particular focus on stochastic dependence modelling, extreme value theory, statistical learning, and risk analysis, motivated by applications in insurance, finance, and environmental sciences."
+  website: "https://math.univ-lyon1.fr/~maume/"
+
 - name: "Shifeng Xie"
   affiliation: "Université Paris Cité"
   title: "PhD student"
