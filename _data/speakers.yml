@@ -50,7 +50,7 @@
   website: "https://taharnbl.github.io/"
 
 - name: "Adrien Petralia"
-  affiliation: "Mistral AI"
+  affiliation: ""
   title: "AI Scientist"
   photo: "assets/img/Petralia.png"
   bio: "Adrien holds a PhD from Université Paris-Cité on deep learning for time series in the energy sector, spanning signal separation, foundation models, and generative modelling for load disaggregation."
@@ -65,9 +65,9 @@
 
 - name: "Raphael Nedellec"
   affiliation: "Decathlon"
-  title: "Data Science Manager"
+  title: "Staff Data Scientist"
   photo: "assets/img/R_Nedellec.png"
-  bio: "Raphael's research focuses on forecasting and calibrated quantile regression using semi-parametric additive models, with widely-used contributions such as the qgam and mgcViz R packages. He now leads data science work at Decathlon."
+  bio: "Raphaël is an Applied Scientist and Staff Data Scientist at Decathlon, specializing in building and scaling industrial Machine Learning solutions. He focuses on complex forecasting and planning challenges across supply chain and store operations."
   website: "https://scholar.google.com/citations?user=GAisXYIAAAAJ&hl=en"
 
 - name: "Roberto Stanzione"
