@@ -56,8 +56,8 @@ description: Information and instructions for submitting a poster to the worksho
         </ul>
 
         <div class="hero-actions mt-4">
-          <a href="https://framaforms.org/transfer-learning-and-time-series-fm-1781970359" class="btn btn-primary" target="_blank" rel="noopener">
-            Submit via the form →
+          <a class="btn btn-primary" target="_blank" rel="noopener">
+            Submission closed
           </a>
         </div>
 
