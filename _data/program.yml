@@ -10,7 +10,7 @@ day1:
       title: "Transfer Learning. Theory, methods and applications"
       type: "plenary"
       speakers:
-        - "Mathilde Mougeot"
+        - "Mathilde Mougeot and Mounir Atiq"
       description: "It is well known the greater the volume of data the better the performance of a model. However, for given applications, access to large databases to train a model is not necessarily easy. The aim of transfer learning is to take advantage of basic model sources or pre-existing data in order to adapt a high-performance model to a given target application for which sufficient data is not directly available. This course will present various transfer learning methods (instance-based, feature-based, parameter-based) that have been introduced in the literature depending on the information available for the source and the target. Different approaches will be presented depending on the class of models used: models based on neural networks, models based on decision trees, models based on Gaussian processes, etc. Concrete application cases will also be presented in which transfer learning has been used to obtain very high-performance machine learning models, even when dedicated data are scarce or even non-existent."
 
     - time: "11h00–12h00"
