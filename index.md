@@ -22,7 +22,8 @@ title: Home
     </div>
     <div class="hero-actions">
       <a href="{{ '/program/' | relative_url }}" class="btn btn-primary">View the program</a>
-      <a href="https://framaforms.org/transfer-learning-and-time-series-fm-1781970359" class="btn btn-outline">Register and/or submit a poster (registrations are reopening — they'd been paused while we worked on securing extra capacity, which we're hopeful will come through.)</a>
+<a href="https://framaforms.org/transfer-learning-and-time-series-fm-1781970359" class="btn btn-outline">Register and/or submit a poster</a>
+<span class="note">Registrations are reopening — they'd been paused while we worked on securing extra capacity, which we're hopeful will come through.</span>
     </div>
   </div>
 </section>
