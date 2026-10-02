@@ -72,26 +72,26 @@ day2:
       description: "This introductory talk provides the background needed to understand the recent emergence of foundation models for time series. It begins with a concise overview of the deep learning methods that have shaped the field over the past decade, covering key architectures and their applications to forecasting, classification, imputation, regression and anomaly detection. It then discusses the limitations of task- and dataset-specific training, motivating the need for models that learn more general and transferable temporal representations. This evolution naturally leads to the paradigm of foundation models, which will be explored in depth throughout the subsequent talks of the workshop."
 
     - time: "11h–11h45"
-      title: "TabICLv2: A Better, Faster, Scalable, and Open Tabular Foundation Model"
+      title: "TS-ICL: A Flexible Time-Indexed Foundation Model for Time Series via In-Context Learning (NeurIPS 26)"
       type: "plenary"
       speakers:
-        - "David Holzmüller or Gaël Varoquaux (INRIA Soda)"
-      description: "Foundation models are rapidly transforming tabular machine learning, demonstrating the potential of large-scale pretraining and in-context learning for predictive tasks. This talk presents TabICLv2, a new open foundation model for tabular data that advances the state of the art in both performance and scalability. The presentation highlights the key ideas behind the model, including innovations in synthetic data generation, model architecture, and pretraining, and discusses how these advances enable stronger generalization across datasets while making foundation models more practical for real-world applications."
+        - "Tahar Nabil(EDF)"
+        - "Etienne Le Naour (EDF)"
+      description: "While most time series foundation models have focused on forecasting, many real-world applications require reasoning over irregularly and partially observed data. This talk presents TS-ICL, a foundation model that unifies forecasting and imputation within a single in-context learning framework. By casting time series problems as timestamp-aligned regression and leveraging large-scale synthetic pretraining, TS-ICL learns flexible temporal representations that generalize across tasks and observation settings. The presentation discusses the core principles behind the model and illustrates how in-context learning can enable more versatile and robust time series foundation models."
 
     - time: "12h00–13h30"
       title: "Lunch"
       type: "meal"
 
     - time: "13h30–14h10"
-      title: "TS-ICL: A Flexible Time-Indexed Foundation Model for Time Series via In-Context Learning"
+      title: "TabICLv2: A Better, Faster, Scalable, and Open Tabular Foundation Model (ICML 26)"
       type: "plenary"
       speakers:
-        - "Tahar Nabil(EDF)"
-        - "Etienne Le Naour (EDF)"
-      description: "While most time series foundation models have focused on forecasting, many real-world applications require reasoning over irregularly and partially observed data. This talk presents TS-ICL, a foundation model that unifies forecasting and imputation within a single in-context learning framework. By casting time series problems as timestamp-aligned regression and leveraging large-scale synthetic pretraining, TS-ICL learns flexible temporal representations that generalize across tasks and observation settings. The presentation discusses the core principles behind the model and illustrates how in-context learning can enable more versatile and robust time series foundation models."
-      
+        - "Gaël Varoquaux (INRIA Soda)"
+      description: "Foundation models are rapidly transforming tabular machine learning, demonstrating the potential of large-scale pretraining and in-context learning for predictive tasks. This talk presents TabICLv2, a new open foundation model for tabular data that advances the state of the art in both performance and scalability. The presentation highlights the key ideas behind the model, including innovations in synthetic data generation, model architecture, and pretraining, and discusses how these advances enable stronger generalization across datasets while making foundation models more practical for real-world applications."
+
     - time: "14h10–14h50"
-      title: "CauKer: Classification Time Series Foundation Models Can Be Pretrained on Synthetic Data"
+      title: "CauKer: Classification Time Series Foundation Models Can Be Pretrained on Synthetic Data (ICLR 26)"
       type: "plenary"
       speakers:
         - "Shifeng Xie (Université Paris Cité)"
@@ -102,7 +102,7 @@ day2:
       type: "break"
       
     - time: "15h15–15h55"
-      title: "Retrieval Over Training: Similarity Search-Based Model Selection for Time Series Anomaly Detection."
+      title: "Retrieval Over Training: Similarity Search-Based Model Selection for Time Series Anomaly Detection. (NeurIPS 26)"
       type: "plenary"
       speakers:
         - "Roberto Stanzione (INRIA Valda)"
