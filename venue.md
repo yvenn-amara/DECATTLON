@@ -87,7 +87,7 @@ description: Address, access, and accommodation for the workshop.
             </div>
             <div class="transport-content">
               <h4>Approximate travel times</h4>
-              <p>Paris center (Châtelet): ~30 min by RER B. Orly airport: ~20 min by car. CDG airport: ~50 min by RER B. GPS coordinates: <strong>48.7177° N, 2.1989° E</strong>.</p>
+              <p>Paris center (Châtelet): ~50 min by RER B. Orly airport: ~30 min by car. CDG airport: ~90 min by RER B. GPS coordinates: <strong>48.7177° N, 2.1989° E</strong>.</p>
             </div>
           </div>
         </div>
