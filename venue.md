@@ -25,7 +25,7 @@ description: Address, access, and accommodation for the workshop.
           91120 Palaiseau
         </p>
         <p style="margin-top: 1rem; font-size: 0.9rem; color: #5A5954;">
-          The workshop is held in <strong>Bâtiment AZUR</strong> (amphitheaters), accessible from the main pedestrian entrance on Boulevard Gaspard Monge. A visitor badge will be issued at the welcome desk upon presentation of a valid ID.
+          The workshop is held in <strong>Bâtiment AZUR</strong> (auditorium), accessible from the main pedestrian entrance on Boulevard Gaspard Monge. A visitor badge will be issued at the welcome desk upon presentation of a valid ID.
         </p>
 
         <a href="https://maps.google.com/?q=EDF+Lab+Paris-Saclay,+7+Boulevard+Gaspard+Monge,+91120+Palaiseau" class="btn btn-outline btn-sm mt-3" target="_blank" rel="noopener">
