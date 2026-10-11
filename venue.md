@@ -57,7 +57,7 @@ description: Address, access, and accommodation for the workshop.
             </div>
             <div class="transport-content">
               <h4>RER B</h4>
-              <p>Take the RER B (direction <strong>Saint-Rémy-lès-Chevreuse</strong>) from Paris-Châtelet–Les Halles or Paris-CDG. Stop at <strong>Massy-Palaiseau</strong>, then take bus <strong>91-06</strong> or <strong>91-06C</strong> (express) to the <strong>Palaiseau – Campus</strong> stop — the bus stop is directly in front of the EDF Lab entrance. The 91-06C runs every ~4 minutes during morning and evening peak hours.</p>
+              <p>Take the RER B (direction <strong>Saint-Rémy-lès-Chevreuse</strong>) from Paris-Châtelet–Les Halles or Paris-CDG. Stop at <strong>Massy-Palaiseau</strong>, then take bus <strong>5154</strong> or <strong>4606</strong> to the <strong>"Hôpital Paris-Saclay"</strong> stop then you can walk <strong>5 mins</strong> to the entrace of the building</p>
             </div>
           </div>
 
