@@ -113,4 +113,4 @@ day2:
       type: "plenary"
       speakers:
         - "Raphaël Nedellec (Decathlon)"
-      description: "Forecasting in operation at Decathlon"
+      description: "Forecasting drives critical decision-making across Decathlon, from long-term strategic planning to store replenishment and workforce management. In this talk, we discuss the practical challenges of forecasting at scale and share how Time Series Foundation Models have accelerated our deployment workflows, while introducing novel technical and operational trade-offs for the future."
